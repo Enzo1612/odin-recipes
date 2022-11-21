@@ -1,1 +1,1 @@
-Hey ! I choose to let you complete this readme after you completed the project !
+This was my first projet as an Odin student. I didn't get to face any difficulty doing this recipes page because I already spent too much time on HTML an CSS. I added the CSS after the project lesson because it was an exercise of another lesson that came after.
