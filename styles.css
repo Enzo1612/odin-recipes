@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+:root {
+    --emerald:#009B77;
+    --turquoise:#45B8AC;
+    --sand:#DFCFBE;
+}
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 5%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--emerald);
+}
+
+h1, h2, h3, h4 {
+    font-size: 700;
+    text-decoration: underline;
+    background-color: var(--sand);
+}
+p {
+    background-color: var(--turquoise);
+}
