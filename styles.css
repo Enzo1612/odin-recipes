@@ -3,11 +3,11 @@
     --emerald:#009B77;
     --turquoise:#45B8AC;
     --sand:#DFCFBE;
+    --blue:#7FCDCD;
 }
 *{
     font-family: 'Montserrat', sans-serif;
     margin: 5%;
-    padding: 0;
     box-sizing: border-box;
 }
 
@@ -16,10 +16,27 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-size: 700;
+    font-weight: 700;
     text-decoration: underline;
     background-color: var(--sand);
+    font-size: 40px;
+    padding: 20px;
+    margin: 1% 5%;
 }
 p {
     background-color: var(--turquoise);
+}
+ul {
+    background-color: var(--blue);
+}
+
+a {
+    color: black;
+    background-color: var(--blue);
+    font-size: 50px;
+    margin-top: 5%;
+}
+a:hover {
+    background-color: var(--turquoise);
+    color: white;
 }
